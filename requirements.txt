@@ -1,0 +1,1 @@
+# No third-party packages required: incremental_etl.py uses only the Python standard library (Python 3.10+).
